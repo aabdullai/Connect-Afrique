@@ -1,2 +1,2 @@
-# Connect-Afrique
+# connect-afrique
 Space for Developers based in West Africa to start and build amazing things using GitHub. Follow! 
